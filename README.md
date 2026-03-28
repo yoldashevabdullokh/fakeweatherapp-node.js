@@ -1,8 +1,5 @@
-# Ob-havo Ilovasi (Weather App)
 
 Bu loyiha ikkita qismdan iborat: **Backend** (Node.js) va **Frontend** (React).
-
-## Qanday qilib ishga tushiriladi?
 
 Loyihani ishga tushirish uchun ikkita terminal ochishingiz kerak.
 
